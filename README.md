@@ -1,5 +1,5 @@
 # Subhakshika #
-site url -https://paprajapati9.github.io/subhakshika-website/
+site url -https://anshukr123.github.io/NGO/
 
 
 http://shubhakshika.org/
