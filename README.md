@@ -2,4 +2,4 @@
 site url -https://anshukr123.github.io/NGO/
 
 
-http://shubhakshika.org/
+or visit - http://shubhakshika.org/
